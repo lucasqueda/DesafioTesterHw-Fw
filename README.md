@@ -1,7 +1,7 @@
 # DesafioTesterHw-Fw
 Repositório para desafio Tester HW/FW - Raspberry -Python
 
-### Programas necessários ###
+### Programas utilizados ###
 
 * Pycharm
 * Raspbian
@@ -50,3 +50,30 @@ selecione a versão do python a ser utilizada(python3) assim finalize a criaçã
 * 1 protoboard 
 
 * Fios para integração do raspberry com o protoboard
+
+
+## Raciocionio usado para conclusão do desafio ##
+
+* Como nunca tive contato com raspberry, procurei como configurar o ambiente corretamente antes de começar a desenvolver a solução
+
+* Utilizei 2 tutoriais do youtube do canal do Afonso Miguel: 
+```
+https://www.youtube.com/watch?v=2ZEE5jQSEZY 
+https://www.youtube.com/watch?v=dfJgCzPYvso&t=494s
+```
+Que ensina detalhadamente a realizar as configurações necessárias.
+
+* Busquei qual a teoria para ligar um led sem o uso do servidor , e como montar o hardware com o botao e o led.
+
+* Desenhei o hardware utilizando paint, mas sei que existem programas melhores para fazer de forma mais clara.
+
+* Ja tinha conhecimento que para "puxar" uma informação do servidor era utilizado
+a biblioteca request, entao busquei sobre a biblioteca e descobri como fazer a comunicação
+
+* Implementei parte por parte do código. 
+
+* Por fim, faltou apenas um meio de testar para saber se estava tudo correto.
+
+Observação: Se tivesse com o material em mãos para testar, o resultado poderia ser muito melhor.
+
+
