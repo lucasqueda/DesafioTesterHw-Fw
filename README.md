@@ -4,7 +4,7 @@ Repositório para desafio Tester HW/FW - Raspberry -Python
 
 ### Raciocionio usado para conclusão do desafio ###
 
-* Como nunca tive contato com raspberry, procurei como configurar o ambiente corretamente antes de começar a desenvolver a solução
+* Como nunca tive contato com raspberry, dividi o problema em partes e primeiramente procurei como configurar o ambiente corretamente antes de começar a desenvolver a solução
 
 * Utilizei 2 tutoriais do youtube do canal do Afonso Miguel, que ensina detalhadamente a realizar as configurações necessárias.
 ```
